@@ -1,2 +1,3 @@
 # images_in_markdown
-主要是用在Markdown下的图床
+
+这是主要的笔记图片截图。有部分图片懒的自己写，所以直接挂到github的网站上。
